@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/aakashm/NetBeansProjects/MVCCrudApp/src/java/com/aakash/mvccrudapp/Controller/AddCourseServlet.java</file>
+            <file>file:/home/aakashm/NetBeansProjects/MVCCrudApp/web/WEB-INF/Views/Login.jsp</file>
+            <file>file:/home/aakashm/NetBeansProjects/MVCCrudApp/src/java/com/aakash/mvccrudapp/Controller/LoginServlet.java</file>
+            <file>file:/home/aakashm/NetBeansProjects/MVCCrudApp/web/WEB-INF/Views/Home.jsp</file>
+            <file>file:/home/aakashm/NetBeansProjects/MVCCrudApp/web/WEB-INF/Views/AddCourse.jsp</file>
+        </group>
+    </open-files>
+</project-private>
